@@ -1,8 +1,16 @@
 {
   "posts": [
-    { "id": 1, "title": "Te" },
+    { "id": 1, "title": "Diazepam" },
     { "id": 2, "title": "Pracetamol" },
-    { "id": 3, "title": "Amoxicilina" }
+    { "id": 3, "title": "Amoxicilina" },
+    { "id": 4, "title": "Paracetamol" },
+    { "id": 5, "title": "Haloperidol" },
+    { "id": 6, "title": "Pseudoefedrina" },
+    { "id": 1, "title": "Te" },
+    { "id": 1, "title": "Te" },
+    { "id": 1, "title": "Te" },
+    { "id": 1, "title": "Te" },
+    { "id": 1, "title": "Te" },
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
